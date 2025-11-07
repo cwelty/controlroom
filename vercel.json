@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "src/app/api/**/*.ts": {
-      "maxDuration": 10
-    }
-  },
   "headers": [
     {
       "source": "/api/tasks/month/(.*)",
